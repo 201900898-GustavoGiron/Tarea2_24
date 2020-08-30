@@ -1,0 +1,121 @@
+#Encabezado h1{
+    margin-left: 50%;
+    margin-right: 50%;
+    width: 20%;
+    color: #24CFF9;
+}
+
+#menu ul {
+ list-style:none;
+ margin:2;
+ padding:0;
+
+}
+#menu ul li {
+ background-color:#BC4AF9;
+ position:relative;
+ right: 50%;
+ left: 40%;    
+ float:left;
+ margin:0;
+ padding:0;
+   
+}
+
+#menu ul a {
+ display:block;
+ color:#89F9D5;
+ text-decoration:none;
+ font-weight:400;
+ font-size:16px;
+ padding:10px;
+ font-family: Arial Black;
+}
+#cinco h1{
+ background-color: #A6F7FA;    
+ margin-top: 100px;
+ margin-left: 15%;   
+ width: 80%; 
+ font-family: Arial;
+ text-align: center;  
+}
+.cinco {
+ background-color: #A6F7FA;    
+ margin-top: -22px;
+ margin-left: 15%;   
+ width: 80%;  
+ font-family: Arial; 
+ font-size: 18px;    
+ text-align: justify;     
+}
+
+#menu{
+    background-color: blue;
+}
+#diez h1{
+ background-color: #75F9DD;    
+ margin-left: 15%;   
+ width: 80%;
+ font-family: Arial;    
+ text-align: center;  
+}
+.diez{
+ background-color: #75F9DD;    
+ margin-top: -22px;
+ margin-left: 15%;   
+ width: 80%;
+ font-family: Arial; 
+ font-size: 18px;    
+ text-align: justify;  
+}
+#IronMan{
+   margin-top: 100px; 
+   margin-left: 100px;
+   
+}
+#personaje h1{
+ background-color: #75F9DD;
+ float: left !important;
+ margin-top: -250px;
+ margin-left: 550px;   
+ text-align: center;  
+ width: 650px;    
+}
+.personaje{
+ float: left !important;   
+ background-color:#75F9DD; 
+ margin-top: -213px;
+ margin-left: 550px;     
+ width: 650px;  
+ font-family: Arial; 
+ font-size: 16px;
+ text-align: justify;  
+}
+#tcurriculum h1{
+    margin-left: 50%;
+    margin-right: 50%;
+    width: 20%;
+    color: #24CFF9;
+}
+#curriculum {
+    margin-top: 100px; 
+    margin-left: 25%;
+}
+#pasos h1{
+    color:darkorchid;
+    margin-top: 100px;
+    margin-left: 15%;   
+    width: 80%; 
+    font-family: Arial;
+    text-align: center; 
+}
+#algoritmo h2{
+    color: aquamarine;
+    margin-top: 50px;   
+    width: 80%; 
+    font-family: Arial;
+    text-align: center;  
+}
+#paso{
+    margin-left: 20%; 
+}
